@@ -27,10 +27,11 @@ body{
     text-align: center;
     font-size: 40px;
     font-weight: 700;
+    margin-bottom: 30px;
 }
 .sec-description{
     color: gray;
-    font-size: 18px;
+    font-size: 15px;
     text-align: center;
 
 }
@@ -111,7 +112,21 @@ nav{
 /* about section */
 .about{
     padding: 130px;
-    background-color: #dfc9b0;
+    background-color: #e0c8b8;
     border-radius: 10px;
-    margin: 130px ;
+    margin: 130px 0;
+}
+.about-infoo{
+   display: flex;
+   justify-content: space-around;
+   margin: 25px;
+}
+.about-info{
+    text-align: center;
+}
+
+/* main section */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
 }
