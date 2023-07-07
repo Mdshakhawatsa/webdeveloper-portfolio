@@ -31,7 +31,7 @@ body{
 }
 .sec-description{
     color: gray;
-    font-size: 15px;
+    font-size: 10px;
     text-align: center;
 
 }
@@ -129,4 +129,7 @@ nav{
 main{
     max-width: 1140px;
     margin: 0 auto;
+}
+#what-i-do{
+    padding: 30px 150px ;
 }
