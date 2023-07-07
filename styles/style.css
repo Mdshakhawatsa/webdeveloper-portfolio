@@ -1,0 +1,50 @@
+/* common used */
+body{
+    font-family: 'Open Sans', sans-serif;
+   
+}
+.text{
+    color: rgb(255, 106, 0);
+}
+
+.btn-primary{
+    border-radius: 5px;
+    background: rgb(255, 98, 0);
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+   
+}
+/* common used */
+
+
+nav{
+    display: flex;
+}
+.nav-title{
+    color: black;
+    font-size: 45px;
+    font-weight: 800px;
+}
+
+nav > ul{
+    display: flex;
+    align-items: center;
+    padding-right: 40px;
+}
+nav li{
+    list-style: none;
+    margin-right: 46px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: rgb(104, 102, 102);
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
