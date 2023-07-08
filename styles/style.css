@@ -201,3 +201,27 @@ font-weight: 700;
     text-align: center;
     margin-top: 50px;
 }
+footer{
+    display: flex;
+    padding: 130px 200px;
+    background-color: rgb(189, 197, 204);
+    margin-top: 100px;
+    gap: 100px;
+}
+.footer-colam{
+    width: 50%;
+
+}
+.contact input[type="text"], .contact input[type="email"],
+textarea{
+    display: block;
+    margin-bottom: 20px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    border: 0;
+}
+.socal-icon a{
+    margin: 10px;
+    
+}
